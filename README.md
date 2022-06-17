@@ -1,7 +1,7 @@
 ![aer0usa](https://avatars.githubusercontent.com/u/35976136?s=96&v=4)
 Hello there, I'm @aer0usa.
 
-I don't do a lot of side projects, but this is where I put my them.
+I don't do a lot of side projects, but this is where I put them.
 
 [Please see my web site for more about me.](https://aer0usa.github.io/)
 
